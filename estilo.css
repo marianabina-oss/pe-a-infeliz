@@ -4,4 +4,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0;
+}
+button{
+background-color: blueviolet;
+color:crimson
+padding: 20px;
+
 }
