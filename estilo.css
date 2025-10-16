@@ -9,6 +9,7 @@ body{
     align-items: center;
     margin: 0;
     font-family: "Playfair Display", serif;
+    font-size: 50px;
 }
 button{
 background-color: blueviolet;
