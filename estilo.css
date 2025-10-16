@@ -14,5 +14,9 @@ button{
 background-color: blueviolet;
 color:crimson
 padding: 20px;
+}
+main{
+   text-align:  center;
+   max-width:90%;
 
 }
